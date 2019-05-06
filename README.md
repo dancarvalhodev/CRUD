@@ -3,7 +3,7 @@
 <h1><strong>Short explication about project</strong></h1>
 <p>Basic CRUD for store customer data from the system (Made with PHP and Mysql).<p>
 
-</h1><strong>What is?</strong></h1>
+<h1><strong>What is?</strong></h1>
 <p>The idea behind this CRUD is serve as a model for initiantes (i'm include) in this world. Even more considering the difficulty of hit the connections with data bank, hit the sintaxe and understand of why use X instead of Y.</p>
 
 <h1><strong>Running this Project</strong></h1>
