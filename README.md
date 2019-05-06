@@ -31,7 +31,7 @@ Basic CRUD for store customer data from the system (Made with PHP and Mysql).
 <p><strong>Basic Configurations</strong></p>
 <p>About connection file(conexao.php), you must change the password "root" to "" IF you are using XAMPP. The default password of MySQL in XAMPP is void (""). Then copy the project folder to "/opt/lampp/htdocs" (on Linux systems) or "C:/xampp/htdocs" (on Windows System).</p>
 
-<p></strong>Running the Project</strong></p>
+<p><strong>Running the Project</strong></p>
 <p>Open the web browser and tap in address bar "localhost/CRUD/form.php"</p>
 
 </p><strong>Enjoy!</strong></p>
