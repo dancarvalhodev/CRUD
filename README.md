@@ -11,20 +11,22 @@ Basic CRUD for store customer data from the system (Made with PHP and Mysql).
 <p>In my workflow, i opted for XAMPP, Sublime and MySQL WorkBench.</p>
 
 <p></strong>Creating the data bank (using workbench)</strong></p>
-<1) Open the MySQL Workbench.
-2) Click on "Create a new schema in the connect server".
-3) Rename the schema name to "bdaula2".
-4) Click on Apply and then click the close.
-5) Doble click on "bdaula2".
-6) Click on "Create a new table in the active schema in connect server".
-7) Rename the table name to "clientes".
-8) The collumns in the table  are as follows:
-    8.1)idcliente (certify of check AI [Auto Incremment]).
-    8.2)nomeCliente.
-    8.3)emailCliente.
-    8.4)telefoneCliente.
-    8.5)senhaCliente.
-9) Click on Apply, Apply and then click the close.
+<ul>
+<li>1) Open the MySQL Workbench.</li>
+<li>2) Click on "Create a new schema in the connect server".</li>
+<li>3) Rename the schema name to "bdaula2".</li>
+<li>4) Click on Apply and then click the close.</li>
+<li>5) Doble click on "bdaula2".</li>
+<li>6) Click on "Create a new table in the active schema in connect server".</li>
+<li>7) Rename the table name to "clientes".</li>
+<li>8) The collumns in the table  are as follows:</li>
+<li>8.1)idcliente (certify of check AI [Auto Incremment]).</li>
+<li>8.2)nomeCliente.</li>
+<li>8.3)emailCliente.</li>
+<li>8.4)telefoneCliente.</li>
+<li>8.5)senhaCliente.</li>
+<li>9) Click on Apply, Apply and then click the close.</li>
+</ul>
 
 <p><strong>Basic Configurations</strong></p>
 <p>About connection file(conexao.php), you must change the password "root" to "" IF you are using XAMPP. The default password of MySQL in XAMPP is void (""). Then copy the project folder to "/opt/lampp/htdocs" (on Linux systems) or "C:/xampp/htdocs" (on Windows System).</p>
