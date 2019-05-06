@@ -1,6 +1,6 @@
-# CRUD
+<h1 style="color: red;">CRUD</h1>
 
-<h1><strong>Short explication about project</strong><h1>
+<h1><strong>Short explication about project</strong></h1>
 <p>Basic CRUD for store customer data from the system (Made with PHP and Mysql).<p>
 
 </h1><strong>What is?</strong></h1>
@@ -34,7 +34,7 @@
 <h1><strong>Running the Project</strong></h1>
 <p>Open the web browser and tap in address bar "localhost/CRUD/form.php"</p>
 
-</p><strong>Enjoy!</strong></p>
+<h1><strong>Enjoy!</strong></h1>
 
 
 
