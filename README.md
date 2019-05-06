@@ -1,4 +1,4 @@
-<h1 style="color: red;">CRUD</h1>
+<h1>CRUD</h1>
 
 <h1><strong>Short explication about project</strong></h1>
 <p>Basic CRUD for store customer data from the system (Made with PHP and Mysql).<p>
